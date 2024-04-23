@@ -1,0 +1,3 @@
+Páginas interesantes
+
+Git ignore io: https://www.toptal.com/developers/gitignore
