@@ -1,1 +1,1 @@
-alert("Aprendiendo GIT y GitHub")
+console.log(`Aprendiendo Git & GitHub`)
