@@ -1,0 +1,124 @@
+commit eeb58acba77dd582613139d0c5b540cd5d124f67
+Author: Alexander O <alexorlas96@gmail.com>
+Date:   Wed Apr 24 09:32:15 2024 -0500
+
+    Agregando dos párrafos
+
+commit e28fba3f979165ecfcf997def0c29e4650ae695e
+Merge: a5ee753 5f0e71f
+Author: Alexander O <alexorlas96@gmail.com>
+Date:   Wed Apr 24 09:30:05 2024 -0500
+
+    Resolviendo conflicto en estaciones del año y fechas de inicio
+
+commit a5ee753e7dd04e9579add7011fe87f0f647ea95e
+Author: Alexander O <alexorlas96@gmail.com>
+Date:   Wed Apr 24 09:03:43 2024 -0500
+
+    Agregando estaciones del año con fecha de inicio
+
+commit 5f0e71f0c86f7d95e4fd4bde7b2679c26792c7bc
+Author: Alexander O <alexorlas96@gmail.com>
+Date:   Wed Apr 24 09:03:43 2024 -0500
+
+    Agregando estaciones
+
+commit f4ba0d634ff2ae9b2ed837cbcecd1bdbf9133dd4
+Merge: 29e39ce ba6e257
+Author: Alexander O <alexorlas96@gmail.com>
+Date:   Wed Apr 24 08:18:39 2024 -0500
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit 29e39cebbda38cf1fcff2852b3e761e49c153044
+Author: Alexander O <alexorlas96@gmail.com>
+Date:   Wed Apr 24 08:07:56 2024 -0500
+
+    Arreglando JS file
+
+commit ba6e257afa49c61ccce6af4eeb0862f2fa4ce773
+Author: Alexander O <alexorlas96@gmail.com>
+Date:   Wed Apr 24 08:06:42 2024 -0500
+
+    Modificando archivo JavaScript
+
+commit 754304c6c6f7660c308e6d4a13533bb897899592
+Author: Alexander O <alexorlas96@gmail.com>
+Date:   Tue Apr 23 17:49:25 2024 -0500
+
+    Creando y agregando archivo JS al archivo HTML
+
+commit e2aa3ebca650b0dee407fb54391b4fd3ab37554d
+Author: Alexander O <alexorlas96@gmail.com>
+Date:   Tue Apr 23 17:48:08 2024 -0500
+
+    Cambios en el HTMl de la rama HTML
+
+commit f2d6ec6b879703553b8babc4834cb1aa54c6e20d
+Author: Alexander O <alexorlas96@gmail.com>
+Date:   Tue Apr 23 17:44:25 2024 -0500
+
+    Agregando style.css al index.html
+
+commit c62d25f42154da7e3ee801ad9ed5998adde9b717
+Merge: f129144 8eb2039
+Author: Alexander O <alexorlas96@gmail.com>
+Date:   Tue Apr 23 17:34:44 2024 -0500
+
+    Merge branch 'javascript'
+
+commit 8eb2039d754e5fef1d4a276a796551fd7f540b26
+Author: Alexander O <alexorlas96@gmail.com>
+Date:   Tue Apr 23 17:28:09 2024 -0500
+
+    Creando archivo JavaScript
+
+commit f129144ca0e379a4ebfb7b7dd73f3289434ed11a
+Author: Alexander O <alexorlas96@gmail.com>
+Date:   Tue Apr 23 17:22:20 2024 -0500
+
+    Creando archivo HTML
+
+commit 0af9848f8be83a2fb6328a135c85600d905a818d
+Author: Alexander O <alexorlas96@gmail.com>
+Date:   Tue Apr 23 17:19:32 2024 -0500
+
+    Creando estilos
+
+commit ff08dda7d812a85730cf42280d04e32e81b2057c
+Author: Alexander O <alexorlas96@gmail.com>
+Date:   Tue Apr 23 15:03:04 2024 -0500
+
+    Ignorando archivos .exe
+
+commit 65f2a02ad9d6cf87c5d8501578cfa2198b80d00c
+Author: Alexander O <alexorlas96@gmail.com>
+Date:   Tue Apr 23 15:00:09 2024 -0500
+
+    Archivo con anotaciones últiles del curso
+
+commit c4e64256f4efab6e26b256df603e9153c99243b3
+Author: Alexander Orlas <alexorlas96@gmail.com>
+Date:   Mon Apr 22 17:50:05 2024 -0500
+
+    Creando licencia para el repositorio
+    
+    Licencia MIT para el repositorio
+
+commit 420be1570b6bb5e55abd8ade6e990827a3070e50
+Author: Alexander O <alexorlas96@gmail.com>
+Date:   Mon Apr 22 17:41:33 2024 -0500
+
+    Corrgiendo README con información complementaria
+
+commit 3c202141b2f114288b9a1db6ad5d24ec4babac92
+Author: Alexander O <alexorlas96@gmail.com>
+Date:   Mon Apr 22 17:29:51 2024 -0500
+
+    Agregando contenido inicial al README
+
+commit 3af6eb718c0ef48787557d8cc6850d3be5fc87e1
+Author: Alexander O <alexorlas96@gmail.com>
+Date:   Mon Apr 22 17:21:20 2024 -0500
+
+    Primer commit realizado. Se crearon archivos .gitignore y README
